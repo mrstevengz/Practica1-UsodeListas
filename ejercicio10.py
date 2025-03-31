@@ -1,3 +1,5 @@
+#Programa que recorre una lista de cadenas y muestra cuantas veces aparece un caracter especifico en cada cadena.
+
 lista = ["Hola", "Mundo", "Tengo", "Sueñoo"]
 
 for string in lista:

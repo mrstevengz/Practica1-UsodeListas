@@ -1,3 +1,5 @@
+#Programa que recorre una lsita de cadenas y divide cada cadena en subcadenas utilizando un delimitador
+
 lista = ["La UAM", "Es la mejor", "Universidad de Managua"]
 nueva_lista = []
 

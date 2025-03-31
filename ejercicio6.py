@@ -1,3 +1,5 @@
+#Programa que recorre una lista de cadenas y elimina los espacios en blanco al principio y final de una cadena
+
 cadena = [" Hola ", " Mundo ", " Ayuda "]
 cadenamodificada = []
 
